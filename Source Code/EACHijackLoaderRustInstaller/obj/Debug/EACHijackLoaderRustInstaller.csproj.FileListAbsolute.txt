@@ -1,0 +1,9 @@
+C:\Users\GlebYT\source\repos\EACHijackLoaderRustInstaller\EACHijackLoaderRustInstaller\bin\Debug\EACHijackLoaderRustInstaller.exe.config
+C:\Users\GlebYT\source\repos\EACHijackLoaderRustInstaller\EACHijackLoaderRustInstaller\bin\Debug\EACHijackLoaderRustInstaller.exe
+C:\Users\GlebYT\source\repos\EACHijackLoaderRustInstaller\EACHijackLoaderRustInstaller\bin\Debug\EACHijackLoaderRustInstaller.pdb
+C:\Users\GlebYT\source\repos\EACHijackLoaderRustInstaller\EACHijackLoaderRustInstaller\obj\Debug\EACHijackLoaderRustInstaller.csproj.AssemblyReference.cache
+C:\Users\GlebYT\source\repos\EACHijackLoaderRustInstaller\EACHijackLoaderRustInstaller\obj\Debug\EACHijackLoaderRustInstaller.Properties.Resources.resources
+C:\Users\GlebYT\source\repos\EACHijackLoaderRustInstaller\EACHijackLoaderRustInstaller\obj\Debug\EACHijackLoaderRustInstaller.csproj.GenerateResource.cache
+C:\Users\GlebYT\source\repos\EACHijackLoaderRustInstaller\EACHijackLoaderRustInstaller\obj\Debug\EACHijackLoaderRustInstaller.csproj.CoreCompileInputs.cache
+C:\Users\GlebYT\source\repos\EACHijackLoaderRustInstaller\EACHijackLoaderRustInstaller\obj\Debug\EACHijackLoaderRustInstaller.exe
+C:\Users\GlebYT\source\repos\EACHijackLoaderRustInstaller\EACHijackLoaderRustInstaller\obj\Debug\EACHijackLoaderRustInstaller.pdb
